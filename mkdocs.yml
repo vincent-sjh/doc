@@ -1,0 +1,4 @@
+site_name: Undefined OS 文档
+site_url: https://undefined-os.github.io/doc
+theme:
+  name: material
