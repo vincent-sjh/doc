@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://undefined-os.github.io/doc/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/architecture/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/architecture/syscall/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/experience/hal/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/implement/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/implement/process/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://undefined-os.github.io/doc/implement/syscall_trace/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+</urlset>
